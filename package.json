@@ -1,0 +1,23 @@
+{
+  "name": "rails-asset-helper-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to handle Rails asset helpers",
+  "main": "lib/loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamphillips/rails-asset-helper-loader.git"
+  },
+  "author": "Adam Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamphillips/rails-asset-helper-loader/issues"
+  },
+  "homepage": "https://github.com/adamphillips/rails-asset-helper-loader",
+  "dependencies": {
+    "clone-deep": "^0.2.4",
+    "loader-utils": "^1.0.4"
+  }
+}
